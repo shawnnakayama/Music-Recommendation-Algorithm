@@ -5,15 +5,15 @@ from sklearn.metrics.pairwise import cosine_similarity
 import base64
 
 # Spotify API credentials
-client_id = "ec3d868061ca4b32ba5d7d1b30f3e604"
-client_secret = "5ffc8ff78f514f0eba200ae74a7560ee"
+client_id = ## INSERT CLIENT ID HERE
+client_secret = ## INSERT CLIENT KEY HERE
 
 # Musixmatch API key
-musixmatch_api_key = "d23111dc373b0f22f120dc280b558a8d"
+musixmatch_api_key = ### INSERT API KEY HERE
 
 # Base URLs for the APIs
-musixmatch_base_url = "https://api.musixmatch.com/ws/1.1/"
-spotify_base_url = "https://api.spotify.com/v1/"
+musixmatch_base_url = ## INSERT BASE URL
+spotify_base_url = ## INSERT BASE URL
 
 # ### Function to Get Spotify Access Token ###
 # 
